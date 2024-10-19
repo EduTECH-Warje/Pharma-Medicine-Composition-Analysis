@@ -1,4 +1,4 @@
-#💊 Pharma Medicine Composition Analysis
+💊 Pharma Medicine Composition Analysis
 
 In this project, you'll explore pharmaceutical compositions from various companies, analyzing the ingredients used in their medications. We break down medicines by type—whether tablets, syrups, or others—and reveal trends in the most commonly used compositions.
 
